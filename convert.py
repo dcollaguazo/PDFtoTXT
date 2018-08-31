@@ -7,7 +7,6 @@ import io
 import sys, getopt
 
 def convert():
-
     for pdf in listdir('./pdfs'):
         text = convert_to_text('./pdfs/' + pdf)
         txt_file_name = pdf[0:-4]
