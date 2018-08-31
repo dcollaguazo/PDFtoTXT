@@ -1,0 +1,106 @@
+4/13/2018
+
+AI 100 - Executive Summary | One Hundred Year Study on Artificial Intelligence (AI100) | Evernote Web
+
+AI 100 - Executive Summary | One Hundred Year Study
+on Artificial Intelligence (AI100)
+Executive Summary
+
+Artificial Intelligence (AI) is a science and a set of computational technologies that are inspired by—but typically operate
+quite differently from—the ways people use their nervous systems and bodies to sense, learn, reason, and take action.
+While the rate of progress in AI has been patchy and unpredictable, there have been significant advances since the
+field's inception sixty years ago. Once a mostly academic area of study, twenty-first century AI enables a constellation
+of mainstream technologies that are having a substantial impact on everyday lives. Computer vision and AI planning,
+for example, drive the video games that are now a bigger entertainment industry than Hollywood. Deep learning, a form
+of machine learning based on layered representations of variables referred to as neural networks, has made speech-
+understanding practical on our phones and in our kitchens, and its algorithms can be applied widely to an array of
+applications that rely on pattern recognition. Natural Language Processing (NLP) and knowledge representation and
+reasoning have enabled a machine to beat the Jeopardy champion and are bringing new power to Web searches.
+
+While impressive, these technologies are highly tailored to particular tasks. Each application typically requires years of
+specialized research and careful, unique construction. In similarly targeted applications, substantial increases in the
+future uses of AI technologies, including more self-driving cars, healthcare diagnostics and targeted treatments, and
+physical assistance for elder care can be expected. AI and robotics will also be applied across the globe in industries
+struggling to attract younger workers, such as agriculture, food processing, fulfillment centers, and factories. They will
+facilitate delivery of online purchases through flying drones, self-driving trucks, or robots that can get up the stairs to the
+front door.
+
+This report is the first in a series to be issued at regular intervals as a part of the One Hundred Year Study on Artificial
+Intelligence (AI100). Starting from a charge given by the AI100 Standing Committee to consider the likely influences of
+AI in a typical North American city by the year 2030, the 2015 Study Panel, comprising experts in AI and other relevant
+areas focused their attention on eight domains they considered most salient: transportation; service robots; healthcare;
+education; low-resource communities; public safety and security; employment and workplace; and entertainment. In
+each of these domains, the report both reflects on progress in the past fifteen years and anticipates developments in
+the coming fifteen years. Though drawing from a common source of research, each domain reflects different AI
+influences and challenges, such as the difficulty of creating safe and reliable hardware (transportation and service
+robots), the difficulty of smoothly interacting with human experts (healthcare and education), the challenge of gaining
+public trust (low-resource communities and public safety and security), the challenge of overcoming fears of
+marginalizing humans (employment and workplace), and the social and societal risk of diminishing interpersonal
+interactions (entertainment). The report begins with a reflection on what constitutes Artificial Intelligence, and concludes
+with recommendations concerning AI-related policy. These recommendations include accruing technical expertise
+about AI in government and devoting more resources—and removing impediments—to research on the fairness,
+security, privacy, and societal impacts of AI systems.
+
+Contrary to the more fantastic predictions for AI in the popular press, the Study Panel found no cause for concern that
+AI is an imminent threat to humankind. No machines with self-sustaining long-term goals and intent have been
+developed, nor are they likely to be developed in the near future. Instead, increasingly useful applications of AI, with
+potentially profound positive impacts on our society and economy are likely to emerge between now and 2030, the
+period this report considers. At the same time, many of these developments will spur disruptions in how human labor is
+augmented or replaced by AI, creating new challenges for the economy and society more broadly. Application design
+and policy decisions made in the near term are likely to have long-lasting influences on the nature and directions of
+https://www.evernote.com/Home.action?login=true#n=3c062726-859d-49bf-a953-b978112360f7&s=s352&b=dc2c8a2d-808a-46f2-aed6-44c729a5d577&ses=4&sh=1&
+
+AI 100 - Executive Summary | One Hundred Year Study on Artificial Intelligence (AI100) | Evernote Web
+
+4/13/2018
+and policy decisions made in the near term are likely to have long lasting influences on the nature and directions of
+such developments, making it important for AI researchers, developers, social scientists, and policymakers to balance
+the imperative to innovate with mechanisms to ensure that AI's economic and social benefits are broadly shared across
+society. If society approaches these technologies primarily with fear and suspicion, missteps that slow AI's development
+or drive it underground will result, impeding important work on ensuring the safety and reliability of AI technologies. On
+the other hand, if society approaches AI with a more open mind, the technologies emerging from the field could
+profoundly transform society for the better in the coming decades.
+
+Study Panel: 
+
+Peter Stone, Chair, University of Texas at Austin 
+Rodney Brooks, Rethink Robotics 
+Erik Brynjolfsson, Massachussets Institute of Technology 
+Ryan Calo, University of Washington 
+Oren Etzioni, Allen Institute for AI 
+Greg Hager, Johns Hopkins University 
+Julia Hirschberg, Columbia University 
+Shivaram Kalyanakrishnan, Indian Institute of Technology Bombay 
+Ece Kamar, Microsoft Research 
+Sarit Kraus, Bar Ilan University 
+Kevin Leyton-Brown, University of British Columbia 
+David Parkes, Harvard University 
+William Press, University of Texas at Austin 
+AnnaLee (Anno) Saxenian, University of California, Berkeley 
+Julie Shah, Massachussets Institute of Technology 
+Milind Tambe, University of Southern California 
+Astro Teller, X
+
+Cite This Report
+Peter Stone, Rodney Brooks, Erik Brynjolfsson, Ryan Calo, Oren Etzioni, Greg Hager, Julia Hirschberg, Shivaram
+Kalyanakrishnan, Ece Kamar, Sarit Kraus, Kevin Leyton-Brown, David Parkes, William Press, AnnaLee Saxenian, Julie
+Shah, Milind Tambe, and Astro Teller.  "Artificial Intelligence and Life in 2030." One Hundred Year Study on Artificial
+Intelligence: Report of the 2015-2016 Study Panel, Stanford University, Stanford, CA,  September
+2016. Doc: http://ai100.stanford.edu/2016-report. Accessed:  September 6, 2016.
+
+Report Authors
+AI100 Standing Committee and Study Panel 
+
+Copyright
+© 2016 by Stanford University. Artificial Intelligence and Life in 2030 is made available under a Creative Commons
+Attribution-NoDerivatives 4.0 License (International): https://creativecommons.org/licenses/by-nd/4.0/.
+
+https://www.evernote.com/Home.action?login=true#n=3c062726-859d-49bf-a953-b978112360f7&s=s352&b=dc2c8a2d-808a-46f2-aed6-44c729a5d577&ses=4&sh=1&
+
+4/13/2018
+
+AI 100 - Executive Summary | One Hundred Year Study on Artificial Intelligence (AI100) | Evernote Web
+
+https://www.evernote.com/Home.action?login=true#n=3c062726-859d-49bf-a953-b978112360f7&s=s352&b=dc2c8a2d-808a-46f2-aed6-44c729a5d577&ses=4&sh=1&
+
+

@@ -1,0 +1,223 @@
+Natural Language Processing – Business 
+Applications 
+
+Last updated on June 28, 2018 by Marco Lagi 
+
+Executives worry about their businesses. 
+
+They often have to navigate, with limited resources, a stormy market made of customers, 
+competitors, and regulators, and the interactions between all these actors make finding answers 
+to business questions a complex process. 
+
+But recently, machines have demonstrated their abilities to help shine some light on this chaos 
+and provide, if not direct answers, context clues that help guide executives in using AI to to 
+handle business problems. 
+
+In this article, we delve into examples of how natural language processing (NLP) business 
+applications can be applied at scale to address 5 pressing business questions. 
+
+ 
+
+Five NLP Business Applications 
+1 – Customer service: “How can I keep my customers 
+happy?” 
+NLP is used by computers to manipulate human language, whether  to extract meaning, generate 
+text, or for any other purpose. The interaction computer-language is categorized according to the 
+task that needs to be accomplished: summarizing a long document, translating between two 
+human languages, or detecting spam email are all examples of tasks that today can be decently 
+accomplished by a machine. 
+
+While this wasn’t the case 30 years ago, most of NLP today is based on machine learning i.e. 
+statistical methods that are able to simulate what a human would do in similar circumstances. 
+
+NLP is heavily used in customer service. The interactions between customers and companies 
+contain a lot of useful breadcrumbs that point towards the reasons for customer dissatisfaction, 
+and the interaction itself can be cause of discontent. 
+
+In order to keep a finger on the pulse of consumers’ intent, many companies now transcribe and 
+analyze customer call recordings. They also deploy chat bots and automated online assistants to 
+provide an immediate response to simple needs and decrease the load for customer service reps. 
+Relevant NLP tasks include: 
+
+•  Speech recognition, which converts spoken language into text. Advances in deep learning 
+over the last 10 years have allowed major players to deploy this technology in commercial 
+systems like Siri, Google Now, Skype’s translator etc. with good performances. 
+
+•  Question answering, which involves exactly that—answering questions posed by humans in 
+
+a natural language. When in 2011 IBM’s Watson outclassed the two best humans at 
+Jeopardy!, Ken Jennings wrote on his video screen: “I, for one, welcome our new computer 
+overlords.” The task was especially hard for the machine, since the game is renowned for its 
+convoluted and often opaque questions about general knowledge. Similar technology is 
+used today by many companies for chatbots, both for internal (HR, operations) and external 
+(customer service, IoT) projects. 
+
+ 
+
+2 – Reputation monitoring: “What are people saying about 
+me?”  
+In the 1980s, companies started using software to find patterns in their own data and make 
+better decisions. Optimization of supply chains, inventories and warehouses, sales processes and 
+many other applications gave rise to what we now call business intelligence. But what’s inside a 
+company’s walls is not nearly as much (or as valuable) as what’s outside of them. 
+
+As the cost of computation kept dropping and algorithms kept improving, businesses started 
+adopting tools that allowed them to look beyond their databases. This kind of data is commonly 
+referred to as external data, public data, or open-source intelligence (OSINT). 
+
+While some of this data is structured and ready to be analyzed (e.g. census data, stock prices), 
+most of its value remains tapped in unstructured, human-generated text such as news; blog 
+posts; forums; patents; job postings; reports; SEC filings; social media; company websites; etc. 
+These sources contain a plethora of precious information about how competitors, customers and 
+the market as a whole are evolving. 
+
+An example of how this kind of data can be used is reputation monitoring. It’s no secret that most 
+customers check reviews online before buying a product, whether it’s a phone or a falafel. 
+According to the most recent BrightLocal survey, 92 percent of customers read online reviews 
+and 86 percent won’t buy a product with fewer than 3 out of 5 stars. 
+
+And as consumers have started voicing their complaints on Twitter and Facebook, reputation 
+monitoring and management has become a top priority for businesses. Companies can now scan 
+the entire web for mentions of their brand and products and recognize cases when they should 
+take action. 
+
+Relevant NLP tasks for this application include: 
+
+•  Sentiment analysis, which determines the attitude, emotional state, judgment or intent of 
+
+the writer. This is done by either assigning a polarity to the text (positive, neutral or 
+negative) or trying to recognize the underlying mood (happy, sad, calm, angry…). What 
+about the times when multiple attitudes need to be accounted for in the same sentence? 
+For example, “The pizza was amazing, but the waiter was awful!” 
+
+In the case above, the text is split into clauses, and polarity and mood are assessed for each. So, 
+the previous text becomes something like: 
+
+{“clause”: “The pizza was amazing”, 
+“polarity”: 0.92, 
+“mood”: “happy”}, 
+
+{“clause”: “but the waiter was awful!”, 
+“polarity”: -0.95, 
+“mood”: “angry”} 
+
+•  Coreference resolution, which connects pronouns to the right objects. This is a hard task, 
+but it’s essential to interpret the text correctly. For example, if a customer writes: “A guy 
+from the dealer called to ask if I liked my new car. Well, no man, it sucks?”, it’s important to 
+recognize that “it” refers to the car and not the guy. The customer is complaining about the 
+product, not the service. As Elon Musk says, “Brand is just a perception”. Right now, your 
+customers are talking about you, influencing the way other consumers perceive your brand. 
+NLP can help you stay on top of your in-the-trenches reputation. 
+
+ 
+
+3 – Ad placement: “Who is interested in my product?”  
+Media buying is usually the largest line in a company’s advertising budget, so any targeting that 
+can be done to ensure that ads are presented to the right eyeballs is of paramount importance. 
+While in the past marketers have focused on demographics (race, economic status, sex, age, etc.) 
+and psychographics (values, personality, attitudes, opinions, etc.), they’ve quickly adapted to the 
+new digital area. 
+
+Our emails, social media, e-commerce and browsing behaviors contain a lot of information about 
+what we’re really interested in. The huge potential of this kind of unstructured data is confirmed 
+by the fact that 2 of the 10 largest companies today generate most of their revenue selling ads 
+(Google and Facebook). Relevant NLP tasks for this application include: 
+
+•  Keyword matching, which checks whether words of interest are included in some text. This 
+
+is one of the easiest tasks in NLP, and at the same time one of the most remunerative. While 
+this first approximation is often good enough, its lack of sophistication can produce pretty 
+inappropriate results. 
+
+•  Sense disambiguation, or identification of which sense of a word is used in a sentence. While 
+
+the human brain is pretty good at this task, a computer won’t necessarily find it easy to 
+recognize that the term pounds in the sentence, “I gained 20 pounds since the 
+wedding!”,  most likely refers to the unit of mass rather than the currency. This is still an 
+open problem in NLP. 
+
+ 
+
+4 – Market intelligence: “What’s happening with my 
+competitors?” 
+Markets are influenced by information exchange – between company/shareholders, 
+government/citizens or simply individuals. Knowing the status of an industry is essential to 
+
+developing an effective strategy, but the channels of content distribution today (RSS feeds, social 
+media, emails) produce so much information that it’s becoming hard to keep up. 
+
+This is especially true in financial markets, which is why hedge funds routinely use NLP to improve 
+their models. Relevant NLP tasks for this application include: 
+
+•  Event extraction, which recognizes what’s happening to an entity. M&As, employment 
+
+changes, deal closings and everything else that happens to organizations or people can be 
+extracted automatically. For example, “Howard Schultz Stepping Down As Starbucks CEO” 
+can be parsed as: 
+
+{“company”: “Starbucks”, 
+“position”: “CEO”, 
+“person”: “Howard Schultz”, 
+“event”: “end of employment”} 
+
+A structured database of events about companies, governments and people is an extremely 
+powerful tool for analyzing the business ecosystem. 
+
+•  Sentence classification, or putting a sentence in a predefined set of buckets. This is often 
+
+used as a first pass to extract relevant content from large repositories, like the SEC’s EDGAR 
+system. For example, “We expect a 15% increase in revenue next year,” can be classified as 
+a forward-looking statement. 
+
+ 
+
+5 – Regulatory compliance: “Is my product a liability?” 
+A crucial example of compliance is pharmacovigilance i.e. the studies done after a drug has been 
+marketed (phase IV of clinical trials) to gather information on its side effects. A lot of information 
+about adverse drug events (ADEs) resides in what’s called unstructured clinical narratives, or 
+patients’ reports about their health. 
+
+Pharma companies extract ADEs from 1) electronic health records (EHRs), social media and 
+forums for patients complaining about a problem, and 2) web search trends and patterns for 
+patients looking for a solution. Relevant NLP tasks for this application include: 
+
+•  Named entity recognition (NER), which extracts the names of drugs, diseases, patients, and 
+pharma companies using rule-based or statistical methods. Applying NER to a sentence will 
+be able to convert it from, “Valium makes me sleepy,” to “{drug} makes me {symptom}.” 
+
+•  Relation detection, used to identify the context in which the ADE is mentioned. This is often 
+done with frames, or patterns of words that correspond to a concept, e.g. “I felt {symptom} 
+after taking {drug}” is a pattern that matches the presence of side effects. 
+
+By applying these two tasks consecutively, we’ve identified that the patient is linking the drug 
+Valium to the side effect sleepy. Both these tasks benefit from using ontologies i.e. structured 
+domain knowledge (in this case biomedical) that provides the object dictionary and the relations 
+between objects. 
+
+What’s next in AI for BI 
+
+Over the last 10 years, companies have been able to carve the most promising NLP business 
+applications out of academic research, and use them to improve their business intelligence. The 
+NLP market size, which is about $7.5B today, is estimated to grow to $16B by 2021. 
+
+Still, computers are not able to process or understand text like humans do, at least not yet. 
+
+As mentioned before, most of the methods employed in NLP are statistical in nature, and 
+statistics can only go so far without context or semantics. The algorithms behind the applications 
+described above simulate human understanding and can do that at scale, but they are still brittle 
+in that they can’t simulate a behavior they haven’t seen before. 
+
+For example, every time Siri tries to answer a question that has not been programmed to 
+respond, it fails miserably, and it will keep failing until Apple’s engineers implement the fix. 
+
+The future of this field is about moving from NLP to natural language understanding (NLU), where 
+a deeper connection between the concepts communicated and facts about the world is 
+established. In artificial intelligence, this is considered an AI-hard problem: to be solved, 
+computers have to be as intelligent as people. 
+
+But while the future is still in the works, present NLP technologies  can still provide businesses 
+with useful answers to bounded questions 
+
+ 
+
+
