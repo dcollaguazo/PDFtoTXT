@@ -1,0 +1,1091 @@
+How to Conduct and Leverage an Expertise Audit 
+
+How to Conduct and Leverage an 
+Expertise Audit 
+ 
+By Patrick Lambe 
+ 
+ 
+ 
+ 
+Expertise audits are most useful when: 
+
+•  Your organization is dependent on specialised expertise and/or experience 
+•  That expertise or experience is in short supply or difficult to acquire 
+•  You run a risk of losing key expertise/experience eg through retirement, 
+
+staff turnover, or job rotation 
+
+ 
+In small organizations or within individual workgroups, it is fairly easy to identify 
+where your expertise and experience lies, and also to identify any risks of loss 
+you might be vulnerable to. However, large organizations are probably using 
+expertise and experience in many different pockets of activity, and if you want to 
+put in place a managed programme for protecting or developing experience and 
+expertise, you will need to conduct a systematic audit so that you can: 
+
+a.  Prioritise your interventions according to the importance of the expertise 
+
+and the risk of loss 
+
+b.  Keep track of your expertise and experience base over time 
+c.  Keep track of your expertise and experience needs over time. 
+
+ 
+This guide is in three parts: 
+
+1.  Understanding Expertise – where we look at what constitutes expertise 
+
+and experience and why they are worth managing carefully 
+
+2.  Conducting an Expertise Audit – where we look at techniques and 
+
+information sources for locating and prioritising critical expertise in your 
+organisation 
+
+3.  Leveraging an Expertise Audit – where we look at different strategies 
+
+for protecting or growing critical expertise. 
+
+ 
+ 
+ 
+1. Understanding Expertise 
+ 
+Expertise can be made up of any combination of four primary ingredients: 
+ 
+Technical knowledge which is hard to acquire and requires extensive 
+experience to gain a good understanding of. To some extent it can be written 
+down and can be acquired through study, but experts will usually require practice 
+and experience over time to really master the technical knowledge. Once 
+mastered, they may have the capacity to communicate, teach, write and even 
+create new technical knowledge in their domain. The technical knowledge part of 
+expertise does therefore have a strong explicit element combined with tacit 
+elements, and documentation can help to transfer a part of it, so long as the 
+opportunity to build experience over time is also provided. 
+ 
+Skills which are hard to acquire and require extensive practice over time to 
+perfect. Many skills can be trained, but the skills of experts cannot be acquired 
+just through training. Like technical knowledge, the skills of experts are 
+developed and deepened through a combination of training and practice. Unlike 
+
+© 2007 Straits Knowledge  
+
+  
+
+www.straitsknowledge.com 
+
+1 
+
+How to Conduct and Leverage an Expertise Audit 
+
+technical knowledge, very often the skills cannot be made explicit, but need to be 
+communicated through a mixture of training, demonstration, coaching and 
+practice. Documentation has very little value in transferring the skills part of 
+expertise. 
+ 
+Experience which is continued practice over time, building up a series of 
+patterns of different ways in which work can be done. This “pattern” base is 
+constantly referred to in the mind of the expert, helping the expert recognize 
+previous experiences that may be relevant to the present situation. The mark of 
+experience is that the expert can immediately recognize the salient and important 
+features of a new situation, where a novice will try to focus on everything and will 
+miss signals that may be critical.  
+ 
+The expert can “see” the important aspects of a situation very quickly, and using 
+their extensive memory patterns can run mental simulations about what is likely 
+or not likely to result from different courses of action. In other words, their 
+experience gives them a repertoire of mental models about how the world works, 
+and by running these mental simulations, experts can form accurate expectations 
+about what might occur and improvise appropriate responses.  
+ 
+Experience underpins all the other elements of expertise, including skills and 
+technical knowledge. The expert’s repertoire of patterns incorporates new 
+technical knowledge and allows them to apply their skills in greater depth and 
+with greater effect.  
+ 
+Experience is largely tacit, and is very difficult to transfer through documentation, 
+because it is built up through lived experiences and practice. However certain 
+forms of knowledge transfer can accelerate the acquisition of experience. For 
+example, the “seeing” aspects of expertise can be transferred by observation and 
+coaching, where an expert can point out to a novice what needs to be considered 
+in a given situation, and help them see the salient features. This is a technique 
+used in military training and in simulations. Storytelling is another possible 
+strategy, because stories are descriptions of lived experience where the context, 
+the observations and the way events unfolded can all be communicated without 
+the listener having to live through the experience themselves. 
+ 
+Routines which have been learned and improvised as heuristics or “tricks of the 
+trade” over time. Experts can use their ability to “read” situations and to run 
+mental simulations to develop short cuts or heuristics which they can use again 
+and again in similar situations. This enables them to react very quickly to 
+challenging situations without having to think through a response every time. 
+These routines are developed by leveraging their tacit knowledge, but once they 
+have been developed they can quite often be documented as recipes, methods or 
+templates, and transferred in explicit form to less experienced staff. Usually the 
+main difficulty with routines is that experts are often only semi-aware of the 
+heuristics and routines they have developed, and so they may not be visible to 
+colleagues either. 
+ 
+Notice that all expertise is by its nature difficult to gain, and takes time and 
+experience to mature. 
+ 
+While it’s often relatively easy to pinpoint who your experts are, the ingredients 
+of their expertise (and hence the transferability of that expertise) might not be 
+very obvious. Not all the aspects of somebody’s expertise might be visible. It may 
+not be possible to document or even describe all the elements of an expert’s 
+knowledge, because their expertise may only become visible when it’s needed (eg 
+when he/she improvises an appropriate response in a difficult or challenging 
+
+© 2007 Straits Knowledge  
+
+  
+
+www.straitsknowledge.com 
+
+2 
+
+How to Conduct and Leverage an Expertise Audit 
+
+situation). This is why in expertise audits and in expertise transfer exercises, it is 
+more useful to focus on challenging or problematic incidents rather than on 
+routine operations. Routine operations are less likely to reveal (or need) deep 
+expertise.  
+ 
+This is a key difference between an expertise audit (which often focuses on 
+abnormal situations where expertise is likely to be needed and revealed) and a 
+typical knowledge or information audit where you will usually be looking at the 
+knowledge uses and knowledge needs in the “normal” operations and activities of 
+a business. 
+ 
+As we’ve seen, some aspects of the expert’s knowledge are easier to document 
+than others, eg technical knowledge or routines. Some aspects require support 
+from structured training. Some aspects (eg experience) are better picked up by 
+observation – either direct observation through shadowing, or indirect 
+observations via stories, examples, and case studies recounted by the expert. 
+Other aspects of experience can only be learned for oneself by being exposed to 
+learning environments and building up one’s own learning patterns, developing 
+appropriate mental models, and becoming skilled at mental simulation and 
+improvisation. 
+ 
+Hence it’s essential in approaching an expertise audit to recognize that the 
+knowledge that is embedded in experience cannot be completely documented or 
+completely transferred. However, its transfer can be assisted and the growth 
+of experience can be accelerated using knowledge management techniques. 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+© 2007 Straits Knowledge  
+
+  
+
+www.straitsknowledge.com 
+
+3 
+
+How to Conduct and Leverage an Expertise Audit 
+
+2. Conducting an Expertise Audit 
+ 
+(a)  How to identify experts 
+ 
+In principle, it should not be too difficult to figure out where your expertise is. 
+Expertise and its most important ingredient experience are both embodied in 
+people. Expertise does not lie in databases or document repositories (although 
+the products of expertise might). So when you’re trying to locate expertise in 
+your organization, you’re looking for people. And usually colleagues are aware of 
+the experts in their midst. 
+ 
+These people might be visible in a number of ways. They may be people who are 
+very effective in challenging or complicated situations. They may be specialists 
+who are recognized and consulted for advice or judgment in specific domains. 
+They may have scarce knowledge or abilities. They may be recognised as 
+valuable and important employees who would be difficult to replace. They may be 
+considered as an authority in their subject domain and deferred to even if they do 
+not have matching organisational status. All of these attributes are possible 
+indicators of expertise, and these attributes can all be used as questions designed 
+to point out expertise in your organisation (eg “Who in your department is 
+regularly turned to for specialised advice in difficult or challenging situations?”). 
+ 
+Notice however that some of these attributes may also be assigned automatically 
+by staff to managers – and the attribution of advice, authority and deference may 
+be more a function of their status than of their experience, knowledge or skill. If 
+your audit looks like it is automatically including all managers as experts, your 
+expertise audit may not be probing deeply enough and you may be confusing 
+expertise with status, and missing important pockets of expertise. So if you use 
+questions like the one above, you may need a follow up question such as “Do you 
+have any such people who are not in management positions?”. 
+ 
+
+ 
+By far the best way to find your experts is to go and ask the key operational 
+people in each workgroup. By operational people I mean managers and 
+supervisors who are close to the operation, plus people whom they nominate as 
+
+ 
+
+© 2007 Straits Knowledge  
+
+  
+
+www.straitsknowledge.com 
+
+4 
+
+How to Conduct and Leverage an Expertise Audit 
+
+knowing a lot about the workgroup and its operations. Between them they will 
+almost always know who holds the important expertise and experience available. 
+Some more sample questions to ask on these visits are given in the table below.  
+ 
+In a very large organization where you don’t have the time or resources to visit 
+every workgroup, or where you have lots of different types of expertise and 
+experience and want to identify the most valuable or accessible experts, then you 
+might want to use a more formal technique called social network analysis. This 
+generally works via a survey to all staff, asking the expertise-locating questions 
+we have already discussed (or ones taken from the table below). The names that 
+are cited more frequently will indicate the people who are most recognized and/or 
+turned to, and therefore potentially most important for your audit.  
+ 
+For very large populations, you might want to use social network mapping 
+software to process your results and produce network maps that will show quickly 
+which experts are the most connected or referenced, which ones sit at the centre 
+of self-contained groups, which ones are over-connected resulting in bottle-necks, 
+which ones span group boundaries and act as brokers and connectors, and which 
+ones are isolated and perhaps under-utilised. Each of these different types of 
+expert will have different characteristics and will affect the strategies and 
+interventions you might want to deploy in leveraging your expertise audit later 
+on. 
+ 
+ 
+Select the most appropriate questions from the list below to help locate important 
+expertise and experience in your organization: 
+ 
+
+1.  List the areas of technical knowledge that are critical for your 
+
+department’s work. Who are the specialists in these areas? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.  What are the specialised skills required for your department’s work? Who 
+
+in your department possesses these skills? 
+
+3.  Which are the areas of work in your department that require extensive 
+
+experience to be done effectively? How long does it take to build this 
+experience (how many years)? What kind of experience is it? Who in your 
+department possesses this experience? 
+
+4.  Who in your department would you find it very difficult to replace or get 
+along without? What is it they can do that nobody else/ few others can? 
+
+5.  Who in your department has a track record of responding effectively in 
+
+difficult or challenging situations important to the department’s work? 
+What is it they can do that nobody else/ few others can? 
+
+6.  Who in your department (apart from the manager) is frequently consulted 
+for advice in tricky situations or to solve difficult problems related to your 
+department’s work? 
+
+7.  Does your department have any informally recognized experts or very 
+
+experienced staff apart from formally designated managers or specialists? 
+Who are they and what special expertise or experience do they have? 
+
+8.  Which areas or expertise or experience are necessary and important for 
+your department’s work? Who are the people who hold this expertise or 
+experience?  
+
+© 2007 Straits Knowledge  
+
+  
+
+www.straitsknowledge.com 
+
+5 
+
+How to Conduct and Leverage an Expertise Audit 
+
+9.  Are there any areas of work in your department where you currently don’t 
+have someone to provide the necessary expertise and experience? What is 
+the expertise or experience you need and why the gap? 
+
+ 
+
+10. Are there any emerging areas of expertise or experience that you 
+
+anticipate will become important for the work of your department in the 
+near future? What is the expertise and experience you need and where do 
+you think it can be found or how can it be acquired? 
+
+ 
+ 
+(b). Doing your homework in advance 
+ 
+It is a good idea to do your research in advance and filter out the questions that 
+are irrelevant so that you can cover more ground much faster. You may not need 
+to visit every department and ask every manager every question, and should 
+avoid that if you can. A preliminary analysis may tell you your most important 
+expertise is really located in just a few areas of the organization, and may 
+suggest the most likely places to focus your attention. You don’t want to have to 
+ask busy people too many questions that may not be relevant. The more you can 
+form an understanding of your target workgroups in advance of a visit or a 
+survey, the better will be the quality of your data, and your understanding of its 
+significance (note that several of the questions above have context-setting follow-
+up questions to help you interpret the data later on). 
+ 
+If you are fortunate, you may already have pre-work that will help you zoom in 
+quickly on likely areas of expertise. The following activities can give you a 
+preliminary orientation to give you starting data for an expertise audit, although 
+you will still need to go into the field to ask detailed questions, because they may 
+have missed expertise areas that turn out to be important to you. An expertise 
+audit should always include field investigations, no matter how thorough the 
+preliminary research. 
+ 
+Input from 
+ 
+Knowledge Audit 
+ 
+A knowledge audit can give you very 
+valuable input to prepare for an 
+expertise audit, if it has consciously 
+documented the tacit knowledge as 
+well as the explicit knowledge required 
+for your organization’s critical 
+activities. The areas of knowledge you 
+would look for in a knowledge map 
+would be anything that refers to 
+advanced skills, “tricks of the trade”, 
+technical knowledge, experience or 
+expertise. 
+ 
+ 
+Competency Framework 
+ 
+A competency mapping exercise across 
+an organization may also provide 
+valuable input because like a 
+knowledge audit it usually provides a 
+systematic survey of jobs and the 
+
+Limitations 
+ 
+ 
+ 
+Knowledge maps resulting from a 
+knowledge audit most frequently 
+document the knowledge assets 
+required for the normal operational 
+performance of different workgroups. 
+They do not often capture the deeper 
+knowledge, skills and experience 
+required to deal with unusual or 
+difficult situations, which is where 
+availability of expertise is more 
+important, and where deeper expertise 
+is revealed. 
+
+ 
+ 
+ 
+Competency frameworks or maps can 
+be implemented with great variability 
+in different organizations and may not 
+capture all the aspects involved in 
+expertise (especially the aspect of 
+
+© 2007 Straits Knowledge  
+
+  
+
+www.straitsknowledge.com 
+
+6 
+
+How to Conduct and Leverage an Expertise Audit 
+
+skills, technical knowledge and 
+competencies required to perform well 
+in those jobs. 
+ 
+
+ 
+Corporate Taxonomy 
+ 
+A corporate taxonomy or business 
+classification scheme may provide a 
+formal breakdown of the subject 
+domains and activity areas that are 
+critical to your organisation’s business. 
+They can provide you with important 
+domain areas to get you started. You 
+would follow up by identifying the 
+departments and workgroups where 
+you might find the expertise and 
+experience related to those subject 
+domains. 
+ 
+
+experience). They are often less 
+sensitive to technical knowledge than 
+knowledge maps are, and they are 
+frequently conducted from a top-down 
+analysis of the functions within an 
+organization, which means that they 
+may not discover emergent skills, 
+experience and technical knowledge 
+that grow naturally out of any given 
+work context, but that may not be 
+anticipated from a formal analysis of 
+the business top down. Competency 
+and knowledge maps are more likely to 
+discover such emergent knowledge 
+assets, if they are conducted “bottom 
+up” through workshops with the 
+operational staff. Like a knowledge 
+map, competency maps may also focus 
+on steady state needs, and may not 
+capture the special expertise that is 
+available or needed in unusual but 
+challenging circumstances. 
+ 
+ 
+ 
+ 
+Very much like the competency 
+framework the corporate taxonomy is 
+frequently derived from a formal 
+analysis of the organization’s business, 
+so provides a top-down view that may 
+not fully reflect the full range of skills, 
+technical knowledge and expertise that 
+is required on the ground, especially 
+for unusual but important situations. 
+Corporate taxonomies tend to focus on 
+obvious operational domains within the 
+organization’s core business and their 
+topic focus can be insensitive to 
+“backroom” or non-subject focused 
+skills and technical knowledge that may 
+nevertheless be critical to the 
+organization’s effectiveness (eg 
+financial modeling, risk awareness, 
+emotional intelligence, ability to size 
+people up accurately). Competency 
+frameworks tend to be better than 
+taxonomies at picking up such 
+backroom knowledge needs. 
+Taxonomies are usually designed to 
+manage explicit knowledge assets such 
+as information resources and so they 
+also tend to be insensitive to more tacit 
+areas of knowledge such as experience. 
+Taxonomies tend to reflect past and 
+current knowledge asset collections and 
+are not generally future-oriented. 
+
+© 2007 Straits Knowledge  
+
+  
+
+www.straitsknowledge.com 
+
+7 
+
+How to Conduct and Leverage an Expertise Audit 
+
+ 
+Expertise Directory 
+ 
+You may be fortunate enough to have 
+an existing expertise directory or a 
+staff directory that encourages staff to 
+list their areas of interest, skills and 
+experience. These can provide 
+important data especially if they have 
+already been formally designated as 
+experts and/or are using a 
+standardized vocabulary such as a 
+corporate taxonomy to describe their 
+expertise. 
+ 
+
+ 
+Communities of Practice  
+ 
+Active communities that meet and 
+interact regularly are useful ways of 
+surfacing important expertise and 
+experience within your organization. 
+Over time, the members of the 
+community become aware of who the 
+informal experts and “wise” members 
+of the community are, which members 
+hold more authority than others, and 
+whose judgment is most reliable. They 
+are particularly useful for identifying 
+expertise and experience that is not 
+gathered together into particular 
+functional work units but are scattered 
+across an organization – eg 
+procurement or marketing specialists. 
+The community effectively becomes a 
+mechanism for creating a clearer 
+awareness of the tacit knowledge 
+resources available across a group of 
+scattered specialists.  
+ 
+
+ 
+ 
+ 
+Expertise directories and staff 
+directories are difficult to maintain and 
+are therefore often irregular in their 
+reliability and currency. If staff have 
+been formally designated by managers 
+as “experts” in the absence if a 
+systematic expertise audit this may not 
+fully reflect the reality on the ground 
+(ie who is actually consulted or who 
+actually has the experience). For 
+example, individuals’ designation as 
+“experts” may simply mean that these 
+are the staff to be consulted as 
+reference points for particular topics, 
+and may not fully represent the full 
+range or depth of experience and 
+expertise truly available within a 
+workgroup. If you have a self-reporting 
+staff directory, expertise indicators can 
+be misleading if staff have inconsistent 
+understandings of what constitutes 
+important expertise and skills, if they 
+use inconsistent vocabulary to describe 
+what they know, if they under-report 
+their expertise in order to avoid being 
+distracted from their duties by 
+enquiries, or if they over-report so as 
+to enhance their career profile. 
+ 
+ 
+ 
+ 
+Strong communities sometimes form 
+very narrow and limited views of what 
+they think “true” expertise is, and this 
+may restrict your field of view, missing 
+out other important areas of expertise 
+and experience. They may form a 
+strong sense of orthodoxy, and fail to 
+anticipate emerging needs or gaps. 
+Communities also tend to exist to 
+bridge cross-organisational scatter of 
+knowledge and experience, and so may 
+not be sensitive to the experience and 
+expertise resident in functional 
+departments. They should be used as a 
+complement to looking at functionally 
+organized workgroups, not as an 
+alternative. 
+
+© 2007 Straits Knowledge  
+
+  
+
+www.straitsknowledge.com 
+
+8 
+
+How to Conduct and Leverage an Expertise Audit 
+
+ 
+Online Expertise Finders 
+ 
+If specialists and experts use online 
+discussion forums or weblogs to 
+interact and share in your organisation, 
+then they can also be useful places you 
+can go to get a sense of who posts 
+valuable materials, and who is deferred 
+to or treated with greater respect by 
+their peers. There are also automated 
+tools that can crawl document 
+repositories, list serves, bulletin 
+boards, and even email servers, to 
+identify highly visible and active 
+contributors, and associate them with 
+particular topic areas. 
+
+ 
+ 
+ 
+The caution with online expertise 
+finders is that visibility and activity 
+(which is what the automated tools 
+track) do not necessarily map to 
+experience and expertise. This is easier 
+to tell from manual analysis than with 
+automated tools. Contributions and 
+posting activity can be gamed to give 
+higher visibility, and intensity of 
+discussions could indicate 
+argumentativeness and inexperience as 
+much as expertise. The identification of 
+expertise domains is also dependent on 
+the natural language that contributors 
+use to describe their topics so if that 
+varies, then the expertise domains may 
+not be identified consistently (unless a 
+standard taxonomy is being used to tag 
+contributions). As with self reporting 
+staff directories, “true” experts may not 
+be highly visible in the public or online 
+domain, and the tools assume that the 
+application of expertise is going to be 
+frequent and visible. It often isn’t. 
+ 
+
+ 
+The resources listed above can all provide a useful orientation to prepare for an 
+expertise audit, and between them they should help you figure where you should 
+go looking first, and who you should talk to. Being aware of their limitations will 
+help you focus your own efforts on answering the questions that they do not 
+address. For example, if you have a competency framework and are confident 
+that it has been validated on the ground with operationally aware managers and 
+staff, you may not need to look in any depth for skills-based expertise, but should 
+probably build questions designed to surface experience and expertise areas not 
+already captured in the competency framework.  
+ 
+Because expertise is highly subjective and resides mainly as a tacit (and therefore 
+only partially visible) resource, the golden rule in an expertise audit is not to trust 
+any single information source – but to use multiple channels to build a composite 
+picture of the expertise and experience available and needed in your organization. 
+ 
+ 
+(c). Prioritising your expertise transfer efforts 
+ 
+Your preliminary homework will give you a rough map of the important areas of 
+expertise and experience that you need to go find out more about. Your visits or 
+survey questions or social network analysis will help you flesh out the missing 
+parts, ensure that your expertise audit actually reflects the ground situation and 
+emerging or future needs, and they will help you put names to each expertise 
+domain. 
+ 
+You will also need to collect information that will help you judge the criticality of 
+the expertise and experience you uncover – ie the degree to which you should 
+
+© 2007 Straits Knowledge  
+
+  
+
+www.straitsknowledge.com 
+
+9 
+
+How to Conduct and Leverage an Expertise Audit 
+
+prioritise effort in acquiring, transferring or growing this expertise. Four factors 
+are important signals of critical expertise areas: 
+ 
+
+•  The usefulness of the expertise as applied to the organization’s business 
+•  The need to spread this expertise more widely 
+•  The nature of the expertise and relative difficulty/slowness of transferring 
+
+or replacing it 
+
+•  The risk of losing the expertise in the near future eg through staff 
+
+movement, retirement, job turnover 
+
+ 
+A table something like the one below can help you identify the areas where you 
+need to focus your efforts and protect or acquire vulnerable or missing expertise. 
+You can use it to do a first cut prioritization of your expertise areas, but do not 
+use it mechanically just adding up scores. The scores simply give you a first draft 
+that should be sense checked against your observations in your visits and 
+interviews. For each numerical assessment you should be recording narrative 
+reasons to justify the score. You may want to involve a small core team to 
+complete the first draft of your assessment – between them the members should 
+be familiar with all the main areas of the business, and should have been involved 
+in the conduct of some aspect of the expertise audit so far. 
+ 
+Your first draft of the prioritized list now needs to be checked with your key 
+management stakeholders in the exercise (ie the ones you have consulted) and 
+your final prioritization exercise should preferably be conducted in a workshop 
+where the stakeholders can form a common view together of where the top 
+priorities lie. Finally, you will need to get your senior management team’s input 
+on the key priorities (i) so that they can give input on strategic imperatives facing 
+the organization, and (ii) because some of the follow-up strategies may require 
+new resources or policies that require their consent and support. 
+ 
+
+Expertise/ 
+Experience 
+
+Area 
+
+How 
+
+How 
+
+How difficult 
+
+important for 
+
+important  to 
+
+or time 
+
+the 
+
+business?  
+
+Eg score  
+
+1 (minor) to  
+
+5 (major) 
+
+spread it?  
+Eg score   
+1 (just a few 
+people ok) to  
+5 (a lot more 
+people need to 
+
+have it) 
+
+consuming is 
+it going to be 
+to transfer? 
+
+Eg score 1 
+(easy) to 5 
+(very hard) 
+
+What is the 
+risk of losing 
+
+it? 
+
+Eg score 1 
+(low, eg 4-5 
+years) to 5 
+(high, within 
+the next year) 
+
+Urgency of 
+Expertise 
+Transfer 
+
+Need  
+
+(High Med or 
+Low Priority 
+
+based on 
+scores) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+© 2007 Straits Knowledge  
+
+  
+
+www.straitsknowledge.com 
+
+10 
+
+How to Conduct and Leverage an Expertise Audit 
+
+3. Leveraging the Expertise Audit 
+ 
+By this stage you should have a short list of priority or “critical” expertise areas 
+that you want to work on protecting or building or transferring. Now you’ll need 
+to consider how you develop appropriate strategies. There are four main 
+strategies for dealing with expertise gaps or needs, the first two focused on 
+acquiring “ready-made” expertise and the second two focused on growing that 
+expertise organically: 
+ 
+
+(a) Engage consultants 
+(b) Recruit experts or experienced individuals to join your staff 
+(c) Provide relevant training and education opportunities 
+(d) Deliberately build the experience of your staff through exposure 
+
+and knowledge transfer 
+
+ 
+In practice, you may need to deploy a combination of these strategies. 
+ 
+(a). Engage consultants 
+ 
+You may want to engage consultants where you have a critical expertise 
+requirement that is not expected to be a long term need, and requires fairly 
+limited interventions. The advantages are that the costs of expertise can be 
+contained, the expertise can be made available to you very rapidly, you can shop 
+around for the most appropriate combination of experience and expertise for your 
+needs, external consultants can bring different and new perspectives, and can 
+expose you to knowledge needs and opportunities that you had not previously 
+anticipated. 
+ 
+However if you are likely to continue to need elements of this experience and 
+expertise after the consultants’ intervention, you may be letting yourself in for 
+disappointment. Because a great deal of expertise relies on a tacit experience 
+base built over time consulting engagements present great difficulties in 
+supporting deep expertise transfer or experience building. They can be successful 
+where the required expertise is expressed through well-defined technical 
+knowledge, clearly understood skills, or routines that can be captured in simple 
+methodologies or templates, but the more that their application relies on deep 
+experience, the less satisfactory the expertise transfer – and therefore the long 
+term gains from the engagement – will be. It is always worth a serious 
+assessment whether your organization will continue to require specialised 
+expertise and experience in order to fully benefit from the consultants’ 
+intervention after they have left. If so, then perhaps one of the slower and 
+longer-term expertise strategies might be more suitable. 
+ 
+(b). Recruit experts 
+ 
+If you are clear that you have a longer term need for an area of expertise and 
+either don’t have enough of it or can’t build it organically fast enough to meet 
+your needs, then you might consider recruiting new talent. The advantages are 
+that it is still relatively fast to acquire “pre-grown” expertise through recruitment 
+compared to trying to grow it internally, and again (depending on availability) you 
+can shop around for the best mix to suit your needs. Like consultants, newly 
+recruited experts can bring valuable new perspectives to your organization. 
+ 
+Although recruited experts can be brought on board relatively quickly, they may 
+not get up to speed quite so quickly, as it may take them some time to tune 
+themselves into your organization and its needs. If this is a new or very poorly 
+represented area of expertise in your organization, there will be very little 
+
+© 2007 Straits Knowledge  
+
+  
+
+www.straitsknowledge.com 
+
+11 
+
+How to Conduct and Leverage an Expertise Audit 
+
+infrastructure to help them perform at their true level of capability, and they will 
+likely be performing at sub-optimal levels until they and the organization can 
+build the necessary infrastructure to support them and tune into each others’ 
+strengths and needs.  
+ 
+If it is an already well-established area of expertise and experience then it is 
+important to monitor for “soft” human factors such as competitive behaviours, 
+trust, respect, sense of authority, and collegiality. This is especially true for highly 
+technical or experiential areas of expertise where personal judgment is a very 
+strong factor, where differences of opinion and strongly held opinions are 
+common, and in contexts such as succession planning where incumbents may see 
+a threat or challenge in the new recruit. In such situations it is usually valuable if 
+the incumbent experts are also involved in the selection of the new candidate. 
+ 
+(c). Provide training and education 
+ 
+This strategy works best for expertise based primarily on the ingredients of 
+technical knowledge and skills. No expertise can be completely divorced from 
+experience-building, however, so this strategy needs to be combined with job-
+placement and career planning strategies, where the candidates are deliberately 
+exposed to responsibilities roles and projects that are designed to build their 
+expertise in the critical areas, and also designed to provide a context where they 
+can apply the technical knowledge and/or skills they are developing through 
+formal training/ education. Such strategies also make a strong positive statement 
+about the organisation’s commitment to its staff and their future, and they have 
+the advantage that the expertise is being grown in staff who are familiar with the 
+culture, context and needs of their organization, and so in principle should be 
+able to use their growing expertise with great precision and facility. 
+ 
+This is obviously a much slower expertise growing strategy than the previous two. 
+It assumes the ability to plan and manage careers in the long term despite 
+changes in strategy, policy and market conditions, and so is likely to work best in 
+very stable organizations, in rapidly growing organizations, or in very large 
+organizations where opportunities for career progression are more frequently 
+available and also foreseeable. It may not work quite so well in competitive job 
+markets where the expertise-growth you are investing in today could easily walk 
+away of a competitor decides to grow its expertise by recruitment. Growing 
+expertise from within may also constrain your experts’ awareness of new and 
+emerging knowledge needs, unless they are deliberately exposed to experience 
+and perspectives from outside the organization eg by participation in industry 
+groups, professional associations, university-based education, external job 
+attachments, etc. 
+ 
+(d). Experience-building and Knowledge Transfer 
+ 
+The Experience-building strategy has many of the advantages and disadvantages 
+of the Training and Education strategy above, the major difference being that it is 
+slower and less well-defined. Technical knowledge and skills can be specified 
+more clearly in a way that “experience” in a particular domain cannot. Hence 
+career planning and job placement is less easy to specify, and expectations and 
+sense of progress are less easy to define and monitor. They remain very much an 
+issue of judgment and skill in the organization’s leadership. 
+ 
+However, this strategy can be enhanced and accelerated by combining deliberate 
+exposure to experience eg through the use of succession planning, with the use 
+of knowledge transfer strategies. While experiential knowledge cannot be 
+
+© 2007 Straits Knowledge  
+
+  
+
+www.straitsknowledge.com 
+
+12 
+
+How to Conduct and Leverage an Expertise Audit 
+
+replaced by codified knowledge or even knowledge sharing activity, the 
+acquisition of useful experience can be accelerated by the use of such strategies. 
+ 
+Some example knowledge transfer strategies that can accelerate experience-
+building include: 
+ 
+
+•  Communities of practice or other forms of facilitated group sessions 
+
+where experts can discuss the things they pay attention to, their learning 
+experiences, their routines and tricks of the trade and how they have dealt 
+with challenges, observed or questioned by novices 
+
+•  Storytelling sessions or interviews where experts describe challenging 
+
+situations, how they interpreted them, how they responded, and what 
+they learned 
+
+•  Mentoring, shadowing and coaching where experts guide less 
+
+experienced staff in what to pay attention to, how to anticipate unfolding 
+events, and how to respond appropriately 
+
+•  Training simulations and decision games, where novices are taken 
+through scenarios that require experience to navigate effectively, thus 
+gathering experience by proxy and getting feedback on their performance 
+
+•  Structured interviews designed to elicit the key components of what 
+
+experts pay attention to, their sense of typicality, how they detect 
+anomalies, how they form judgments and make decisions in challenging 
+situations 
+
+•  Platforms for asking and answering questions such as bulletin 
+boards, FAQ databases or expertise directories with email or instant 
+messaging links 
+
+ 
+In considering the knowledge sharing strategies to deploy it is worth considering 
+a number of key questions that may affect the quality of the expert’s 
+participation: 
+ 
+
+•  Does the expert have sufficient time allocated for the knowledge transfer 
+
+activities? 
+
+•  Do the working patters of the expert make it easy or difficult to participate 
+
+in the intended transfer activities? 
+
+•  Are you, the expert and the learner sufficiently clear about the specific 
+
+knowledge to be transferred and why? 
+
+•  Does the expert consider this time productive and well spent? 
+• 
+•  Will the expert feel threatened in any way by the knowledge transfer 
+
+Is the knowledge gap between expert and learner too large? 
+
+• 
+
+activity? 
+Is the expert temperamentally tuned to the style of sharing activity (eg 
+group sharing, writing answers to questions, telling stories? 
+
+•  Does the expert have a stake in the success of the knowledge transfer 
+
+activity? 
+Is the expert interested in the knowledge to be transferred? 
+
+• 
+•  What motivates the expert, and is this motivation aligned with the 
+
+knowledge transfer need? 
+
+•  Are the continuing learning and experience building needs of the expert 
+
+also being met? 
+
+ 
+Your answers to these questions may influence the choice of transfer strategies, 
+as well as other policy or process measures you might need to put in place for the 
+transfer activities to proceed as desired. 
+ 
+ 
+Patrick Lambe, 28 October 2007 
+
+© 2007 Straits Knowledge  
+
+  
+
+www.straitsknowledge.com 
+
+13 
+
+

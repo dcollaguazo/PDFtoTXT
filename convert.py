@@ -14,7 +14,6 @@ def convert():
             f.write(text)
             f.close()
         
-
 def convert_to_text(fname):
     rsrcmgr = PDFResourceManager()
     retstr = io.StringIO()

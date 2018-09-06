@@ -1,0 +1,203 @@
+Expertise location and the learning organization 
+Jan 1, 2003 
+Judith Lamont, Ph.D. 
+This article appears in the issue January 2003 [Volume 12, Issue 1] 
+ 
+By Judith Lamont 
+
+As organizations try to make the most of their intellectual capital, awareness is increasing about the 
+importance of connecting to the people with the right knowledge at the right time. Initially focused on 
+targeted business goals such as reducing time for product development, expertise location and 
+management (ELM), also called employee knowledge network solutions, are also well positioned to 
+provide support to organizational learning initiatives. Those include facilitating mentoring programs, 
+identifying knowledge gaps and providing both performance support and follow-up to formal training 
+activities. 
+
+A relatively new entrant into the KM space, ELM software products offer a variety of capabilities, 
+sometimes combining them into one solution. Most of them create an initial profile of an individual’s 
+expertise based on an analysis of published documents. Some solutions take a Q&A approach that 
+provides responses to specific questions and may also create a knowledgebase that documents 
+those interactions. Finally, some focus on e-mails to capitalize on that ubiquitous but often 
+underutilized source of expertise. The products generally provide the participants with control over 
+the content that is placed into the knowledgebase as well as over the volume of questions that they 
+receive. 
+
+One of the appealing aspects of ELM systems relative to other enterprisewide software solutions is 
+that they can be rolled out and operating productively in a relatively short time. Kamoon reports that 
+a pilot project can be deployed in just a few weeks, and a 10,000-seat system within a month or two. 
+
+“We first set up profiles,” says Yali Harari, Kamoon’s CEO, “by analyzing unstructured repositories to 
+find out where the documented expertise resides.” Employees then take a look at their profile, and 
+update it or remove topics about which they do not want to serve as experts. Over time, employees 
+can continue modifying their profile directly or can simply submit content that the system analyzes to 
+produce an automated update. Depending on the product options selected, Kamoon Connect can 
+function as a locator that brings up a list of experts or in a Q&A format in which questions can be 
+submitted and answered. In either case, a knowledgebase of interactions can be built that captures 
+previously answered questions (PAQs). 
+
+The Young Presidents’ Organization (YPO) deployed Kamoon Connect in November to allow its 
+members to share knowledge among YPO’s large global network of young business leaders. YPO’s 
+mission is to develop better leaders through education and idea exchange. With 17,000 seats 
+deployed to date, YPO will benefit from the ability of Kamoon Connect to match requests to member 
+experts and facilitate interaction among them. Founded in 1950 by Ray Hickock, then a young 
+executive himself, YPO provides support and growth opportunities for those facing the unique 
+challenges, both personal and professional, of early success in business. Networking has always 
+been a key factor in the organization’s success, and that component is now being supported by 
+Kamoon Connect to make the most effective use of members’ knowledge. 
+
+“We view Kamoon as a vital part of our mission,” says George Goldsmith, a YPO board member and 
+chairman of IT and member networking. “It will let our members connect more quickly with their 
+counterparts, accelerating the learning curve on issues that matter.” 
+
+Reducing delays in the learning process creates options that are synergistic with formal training. 
+“The organizational value created by knowledge workers may not be able to be codified ahead of 
+time,” points out Lori Wizdo, Kamoon’s VP of business development, “so real-time interaction can be 
+invaluable.” In addition, she does see a potential role for ELMs in formal e-learning programs, 
+particularly in conducting needs assessments and locating subject matter experts. 
+
+“We can look at the questions being asked and find out what employees really need to know, rather 
+than just asking them what kind of training they want, or worse, deciding it for them,” she says. 
+Kamoon is also beginning to talk with e-learning companies to key them into the value of ELM in 
+identifying both training needs and sources of expertise. A new partnership between IBM Lotus 
+Software and Kamoon builds on the strengths of the Lotus Discovery Server. 
+
+“The core capability of the Discovery Server is centered on detecting affinities of individuals with 
+respect to specific topics in the system,” says Antony Satyadas, knowledge discovery business 
+leader for Lotus. The system can then send an e-mail asking if the individuals want to publish an 
+affinity in their profile. With Lotus’ Sametime, a user can find out if the sought-after expert is online. 
+The system also can map skills against corporate needs to find knowledge gaps. In addition, it can 
+integrate with learning management systems to include an individual’s course information as an 
+input for calculations of a relevancy score. Kamoon contributes the workflow that routes questions to 
+one or more individuals and also the Q&A database that provides a repository for previously 
+answered questions. 
+
+AskMe 
+
+AskMe developed AskMe Enterprise after extensive testing of the Q&A concept and technology on a 
+public Web site over the past three years. The company’s founders had identified expertise location 
+as a mission-critical issue across many companies, and in the course of its testing, explored many of 
+the cultural and adoption issues related to information sharing. 
+
+“We discovered that people use the system in several different ways,” says Dan Wright, VP of 
+professional services at AskMe. Some individuals, for example, were coming to the system every 
+day but neither asking nor answering questions. “We called these people ‘absorbers,’ ” recalls 
+Wright, “because they were learning from the interactions others had had in the past.” This 
+realization led to the addition of new features such as subscriptions to certain areas of content. 
+
+As for the responders, incentives for sharing are important. According to research conducted by 
+AskMe, the top-rated reason for responding is recognition, followed by the satisfaction of helping 
+others. Thus, a system that depends on voluntary response from others should, as a best practice, 
+incorporate a form of recognition for contributors. AskMe has analytical capabilities that allow 
+management to track response time and quality, so it can be used to identify knowledge gaps. For 
+example, a sales force responsible for a complex product may submit questions to applications 
+engineers as to whether a certain product configuration is possible. If weeks go by with no response, 
+management can investigate the delay by exploring staffing or training issues. 
+
+At Honeywell, the Six Sigma process improvement methodology is an integral part of the corporate 
+culture and is embedded in workflow at every level. Part of the job of senior Six Sigma staff (called 
+Black Belts) is to mentor to levels below. Honeywell deployed AskMe across its Six Sigma 
+organization to help transfer knowledge from the most experienced staff to those in training. For 
+example, in the Six Sigma groups, Green Belts in the program can ask questions of the higher level 
+Black Belts to help solve business problems. The answers address immediate needs, but also 
+capture the knowledge for future reference. 
+
+“A strength of the system,” says Drew Grimm, knowledge lead and digital activist at Honeywell, “is 
+that multiple answers may come back, which opens up a diverse range of information to the 
+knowledge seeker.” He believes that much of the value comes from the complementary nature of the 
+expertise. 
+
+One measure of success that Honeywell has chosen is the degree to which answers in the system 
+cut across boundaries, whether geographical, business unit or organizational level. 
+
+“When that happens,” points out Grimm, “the organization as a whole is learning, and we begin to 
+leverage information throughout the enterprise.” AskMe is designed to serve as a knowledge 
+network and is deployed as part of Honeywell’s overall knowledge management strategy that also 
+includes document management and other collaboration tools. It is effectively accessing tacit 
+knowledge that might otherwise be underutilized, and codifying it so it can be shared. 
+
+Sopheon 
+
+Ericsson Research Canada, which develops software for communication network infrastructures, 
+uses Organik software from Sopheon (sopheon.com) to seek out and share expertise. In the highly 
+competitive telecommunications industry, being able to find and disseminate knowledge quickly 
+throughout the enterprise is critical to the ongoing learning process. (Sopheon acquired Organik 
+when it purchased Orbital Software in January 2002.) When the system was implemented at 
+Ericsson Research several years ago, it mirrored the natural communities that had formed within the 
+organization. 
+
+“These communities, which may number a dozen or so individuals locally,” says Anders Hemre, 
+director of enterprise performance and CKO at Ericsson Research, “access four to five times as 
+many others globally through Organik.” 
+
+Based on a Q&A format, Organik provides answers to questions and then stores the answers in a 
+repository for future reference. Some groups now consider the stored information as an integral part 
+of product development, the three components being the product itself, technical documentation and 
+the knowledgebase that explains why certain decisions were made and how problems were solved. 
+Documenting those processes is a way of sharing lessons learned for future projects. In addition, the 
+insights contained in the knowledgebase also can provide guidance to employees in the growing 
+area of technical services, an expanding business for Ericsson Research. 
+
+Hemre sees additional potential for Organik-based knowledge networking as a follow-up to training. 
+
+“Our business case for the system focused on its ability to expedite product development, but we 
+always recognized its ability to serve as an extension to formal training,” Hemre says. That potential 
+may prove particularly useful in the near future; Ericsson Research conducted a large-scale training 
+effort in Java programming and open systems design this year in order to respond to changing 
+market demands. Learners who run into snags on the job may find that peer-to-peer contact as well 
+as accessing established experts both offer solutions. More broadly, the concept of knowledge 
+networking is now being taken up by Ericsson University, which will facilitate such efforts in the 
+company and develop curricula on knowledge management. The expertise location technology in 
+place at Ericsson has the potential to leverage those and other learning organization activities that 
+the university initiates. 
+
+Sopheon is unusual in offering its expertise location software as a module within a broader 
+knowledge management solution. Accolade, its product development suite, includes other tools such 
+as process modeling and portfolio management software, along with a knowledge network 
+component that provides access to research specialists and other sources of decision support. 
+
+“We focus on highly technical areas where knowledge is complex,” says Iain King, senior solutions 
+consultant at Sopheon. “There is a real need in R&D-intensive organizations to connect the right 
+people to a particular problem, but often, integrating these connections directly into the work is 
+difficult.” Accolade provides an environment for managing knowledge-intensive work processes. 
+
+Tacit 
+
+Tacit Knowledge Systems set its sights on the content streams, particularly e-mail, as they move 
+through an enterprise. Its KnowledgeMail software is designed learn about people automatically and 
+in detail through analysis of e-mails as well as document repositories and Lotus Notes databases. 
+Search results include experts and links to content. Users of the system can learn from each other 
+through communities that cross organizational boundaries. 
+
+“In a typical deployment,” says Andrew Dunning, director of marketing at Tacit, “individuals working 
+on large projects find out that they have not been talking with all the right people.” A Tacit search for 
+phrases or keywords identifies those individuals. With Tacit’s Expertise Assessment API, managers 
+can get a view of the expertise that resides in the organization, and identify knowledge gaps. 
+
+John Old, who was director of information management at Texaco (Texaco.com), conducted a pilot 
+program using KnowledgeMail among a group that included the Texaco Fellows, who served as 
+mentors to about 50 employees. Each Fellow guided a learning group that was interested in a 
+certain topic such as telecommunications or finance. One goal of the project was to ensure a well-
+managed transfer of expertise among the individuals. KnowledgeMail was used as a way to broaden 
+each individual’s network within the company. As a result of that experience, one learning group 
+participant developed a knowledge management position paper that ultimately defined Texaco’s KM 
+strategy. 
+
+Organizational structure, maintains Old, is not enough to ensure the right connections. 
+
+“On one occasion we met with a partner company to discuss wireless technologies,” recalls Old, 
+“and we used the system in real time to find individuals with a relevant background.” The person who 
+
+showed up at the top of the list happened to be in the room because of his interest in the topic, but 
+he was not a member of the wireless team. 
+
+“Another one of our initiatives was to use KnowledgeMail to build a community around the subject 
+area of training that employees received,” Old adds. “Typically, trainees go back to their jobs and are 
+disconnected from the training. Our plan was to build learning communities around the formal 
+training and trainees’ subsequent work experiences.” Although not implemented at this point, the 
+plan highlights the potential synergy between expertise location and training initiatives. 
+
+Judith Lamont is a research analyst with Zentek Corp., e-mail jlamont@sprintmail.com. 
+
+ 
+
+
