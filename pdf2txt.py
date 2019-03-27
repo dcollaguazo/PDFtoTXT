@@ -12,11 +12,14 @@ def formatPdf2Txt(filepath,sensitivity='private',id=""):
     try:
         parsed = parser.from_file(file_name, xmlContent=False) 
         parsed_txt = parsed["content"]
+        print(parsed_txt)
         parsed_txt = re.sub(r"-\n\n","",parsed_txt)
+        parsed_txt = re.sub(r"-\n","",parsed_txt)
         parsed_txt = re.sub(r"\n"," ",parsed_txt)
         parsed_txt = re.sub(r"\s{2,}"," ",parsed_txt)
+        parsed_txt = re.sub(r"(([^.!?]*[.!?]){1,5})","\\1\n",parsed_txt)
 
-        parsed_txt = '\n'.join(tokenizer.tokenize(parsed_txt))
+        # parsed_txt = '\n'.join(tokenizer.tokenize(parsed_txt))
 
         eng_det = EnglishDetector()
         engBoolean= eng_det.is_english(parsed_txt)
