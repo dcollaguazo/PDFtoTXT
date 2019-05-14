@@ -43,6 +43,8 @@ def formatPdf2Txt(filepath,sensitivity='private',id=""):
         parsed_txt = re.sub(r"(?:https?|ftp)://[\w_-]+(?:\.[\w_-]+)+(?:[\w.,@?^=%&:/~+#-]*[\w@?^=%&/~+#-])?","", parsed_txt)
         parsed_txt = re.sub(r"-\n\n","",parsed_txt)
         parsed_txt = re.sub(r"-\n","",parsed_txt)
+        # transforming all the text into a chunk of text by removing all breaks.
+        # We will afterwards try to re-create the paragraphs
         parsed_txt = re.sub(r"\n"," ",parsed_txt)
         # removing extra spaces
         parsed_txt = re.sub(r"\s{2,}"," ",parsed_txt)
