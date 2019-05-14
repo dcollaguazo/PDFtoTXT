@@ -10,7 +10,7 @@ from PyPDF2 import PdfFileReader, PdfFileWriter
 
 
 def formatPdf2Txt(filepath,sensitivity='private',id=""):
-    file_name = './pdf/ProjectProposals/' + filepath
+    file_name = './pdf/' + filepath
     # current_pdf = PdfFileReader(file_name)
     # parsed_txt = ''
     
@@ -59,5 +59,5 @@ def formatPdf2Txt(filepath,sensitivity='private',id=""):
         print("An exception occurred: ", e)
 
 if __name__ == "__main__":
-    for pdf in listdir('C:/Users/DANIELACO/PDFtoTXT/pdf/ProjectProposals'):
+    for pdf in listdir('C:/Users/DANIELACO/PDFtoTXT/pdf/'):
         formatPdf2Txt(pdf)

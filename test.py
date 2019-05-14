@@ -72,7 +72,7 @@ Script that cleans the scraped dataframe from the sec page
 ################################################
 ###  CODE - 4: PDFMiner
 ################################################
-from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter#process_pdf
+from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.pdfpage import PDFPage
 from pdfminer.converter import TextConverter
 from pdfminer.layout import LAParams
