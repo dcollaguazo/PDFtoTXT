@@ -1,6 +1,7 @@
 #!C:\Users\DANIELACO\AppData\Local\Continuum\anaconda3\envs\pdf_to_txt\python.exe
 # -*- coding: utf-8 -*-
 from tika import parser
+from tika import language
 import pandas as pd
 import os
 import json
@@ -13,7 +14,8 @@ from PyPDF2 import PdfFileReader, PdfFileWriter
 
 
 def formatPdf2Txt(filepath,sensitivity='private',id=""):
-    file_name = './pdf/ProjectProposals/' + filepath
+    file_name = './pdf/examples_latin_1/' + filepath
+    # file_name = filepath
     now = datetime.utcnow() 
     fileType = "PR - Project Proposal"
     source = "http://sec.iadb.org/Site/Documents/ListDocBySeries.aspx?pCLS_ROWID=15&pOrgCode=IDB&pCode=PR"
@@ -29,9 +31,10 @@ def formatPdf2Txt(filepath,sensitivity='private',id=""):
         parsed = parser.from_file(file_name, xmlContent=False)
         parsed_txt = parsed["content"]
         str_len = len(parsed_txt)
-        # Removing Table of Contents, etc.
-        if(parsed_txt.find("Contents")!= -1):
-            str_start = parsed_txt.find("Contents")
+
+        # Trying to remove Table of Contents
+        if(parsed_txt.lower().find("contents")!= -1):
+            str_start = parsed_txt.lower().find("contents")
             parsed_txt = parsed_txt[str_start:str_len]
 
         # Search and removing References starting from the half of the document
@@ -82,5 +85,6 @@ def formatPdf2Txt(filepath,sensitivity='private',id=""):
         print("An exception occurred: ", e)
 
 if __name__ == "__main__":
-    for pdf in listdir('C:/Users/DANIELACO/PDFtoTXT/pdf/ProjectProposals/'):
+    for pdf in listdir('C:/Users/DANIELACO/PDFtoTXT/pdf/examples_latin_1/'):
         formatPdf2Txt(pdf)
+    # formatPdf2Txt('C:/Users/DANIELACO/PDFtoTXT/pdf/examples_latin_1/Argentina. Proposal for a Conditional Credit Line for Investment Projects (CCLIP) and first individual loan under the line for the “Program to Support the National Early Childhood.pdf')

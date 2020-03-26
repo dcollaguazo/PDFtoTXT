@@ -10,7 +10,7 @@ from PyPDF2 import PdfFileReader, PdfFileWriter
 
 
 def formatPdf2Txt(filepath,sensitivity='private',id=""):
-    file_name = './pdf/' + filepath
+    file_name = './abstractive summarization literature/papers_in_state_of_art/' + filepath
     # current_pdf = PdfFileReader(file_name)
     # parsed_txt = ''
     
@@ -33,24 +33,26 @@ def formatPdf2Txt(filepath,sensitivity='private',id=""):
             parsed_txt = parsed_txt[0:-to_cut]
 
         parsed_txt = re.sub(r"(?:https?|ftp)://[\w_-]+(?:\.[\w_-]+)+(?:[\w.,@?^=%&:/~+#-]*[\w@?^=%&/~+#-])?","", parsed_txt)
-        parsed_txt = re.sub(r"-\n\n","",parsed_txt)
-        parsed_txt = re.sub(r"-\n","",parsed_txt)
-        parsed_txt = re.sub(r"\n"," ",parsed_txt)
         # removing extra spaces
         parsed_txt = re.sub(r"\s{2,}"," ",parsed_txt)
+        # removing breaks with words
+        parsed_txt = re.sub(r"-\n","",parsed_txt)
+        # removing extra breaks
+        parsed_txt = re.sub(r"\n"," ",parsed_txt)
+        
         #removing excesive punctuation
-        parsed_txt = re.sub(r"\n(\.{3,})","\\1",parsed_txt)
+        # parsed_txt = re.sub(r"\n(\.{3,})","\\1",parsed_txt)
         # trying to remove content of table of contents
-        parsed_txt = re.sub(r"(\.{2,} \d{1,}) ([^.!?]*[.!?])","", parsed_txt)
+        # parsed_txt = re.sub(r"(\.{2,} \d{1,}) ([^.!?]*[.!?])","", parsed_txt)
         # parsed_txt = re.sub(r" (\.{3,})","", parsed_txt)
         # creating paragraphs of 6 sentences - 6 was a random number
-        parsed_txt = re.sub(r"(([^.!?]*[.!?]){1,6})","\\1\n",parsed_txt)
+        # parsed_txt = re.sub(r"(([^.!?]*[.!?]){1,6})","\\1\n",parsed_txt)
         
         eng_det = EnglishDetector()
         engBoolean= eng_det.is_english(parsed_txt)
 
         if engBoolean:
-            with open('./txt/' + filepath[0:-4] + ".txt", "w", encoding="utf-8") as f:
+            with open('./txtAbstractiveSummarization/papers_in_state_of_art/' + filepath[0:-4] + ".txt", "w", encoding="utf-8") as f:
                 f.write(parsed_txt)
                 f.close()
         else:
@@ -59,5 +61,5 @@ def formatPdf2Txt(filepath,sensitivity='private',id=""):
         print("An exception occurred: ", e)
 
 if __name__ == "__main__":
-    for pdf in listdir('C:/Users/DANIELACO/PDFtoTXT/pdf/'):
+    for pdf in listdir('C:/Users/DANIELACO/PDFtoTXT/abstractive summarization literature/papers_in_state_of_art/'):
         formatPdf2Txt(pdf)
